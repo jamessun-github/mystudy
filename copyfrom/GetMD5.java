@@ -24,7 +24,7 @@ public class GetMD5 {
         //System.out.println("Java says: Hello world james NEW MD5");
         
         try {      
-            //System.out.println("Java says: Hello world james NEW MD5  1");
+            //System.out.println("Java says: Hello world james NEW MD5  12");
             GetMD5 instance = new GetMD5();            
             String str=instance.buildMD5("data");
             return str;
